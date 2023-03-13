@@ -1,0 +1,6 @@
+[submodule "_backends/captcha"]
+	path = _backends/captcha
+	url = https://github.com/stevie0105/CaptchaService.git
+[submodule "_frontends/reactapp"]
+	path = _frontends/reactapp
+	url = https://github.com/erwanriou/test_chapterday_react.git
